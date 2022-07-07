@@ -1,7 +1,7 @@
 - 👋 Hola, soy @eduardoge13
 - Me encanta programar en Python y R, asi como leer libros y comics.
 - Estudio economía en la 3H FE
-- Busco colaborar con instituciones para medir y cuentificar variables de corte social y analizar cuestiones de ciencias sociales con ciencias de datos.
+- Busco colaborar con instituciones para medir y cuantificar variables de corte social y analizar cuestiones de ciencias sociales con ciencias de datos u otros herramientas estadisticas.
 - 📫 eduardo.gaitan.escalante@gmail.com       
 
 <!---
