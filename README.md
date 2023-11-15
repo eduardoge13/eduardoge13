@@ -1,8 +1,8 @@
 - 👋 Hola, soy @eduardoge13
 - Me encanta programar en Python y R, asi como leer libros y comics.
-- Me gusta mucho Docker y estoy iniciando a aprender Javascript
-- Estudio tambien temas de Inteligencia Artificial y Machine Learning
-- Busco colaborar con instituciones para realizar soluciones y propuestas con nuevas tecnologíasy analizar cuestiones de ciencias sociales con ciencias de datos u otras herramientas estadisticas.
+- Tengo habilidad para Docker y estoy iniciando a aprender Javascript
+- Estudio aplicaciones de Inteligencia Artificial y Machine Learning 
+- Mi objetivo es colaborar para realizar soluciones y propuestas con nuevas tecnologías y analizar cuestiones de ciencias sociales u otros con ciencias de datos y herramientas estadisticas.
 - 📫 eduardo.gaitan.escalante@gmail.com       
 
 <!---
