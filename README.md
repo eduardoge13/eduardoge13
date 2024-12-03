@@ -1,8 +1,9 @@
 - 👋 Hola, soy @eduardoge13 
 - Me encanta programar en Python y R.
-- Actualmente entrenando para convertirme en Ingeniero de Datos
+- Aprendiendo Scala y Julia para Ciencia de datos 
+- Actualmente entrenando para convertirme en Ingeniero de Datos.
 - Disfruto mucho realizar modelos de Machine Learning o Deep Learning asi como visualizaciones y pipelines
-- Mi objetivo es colaborar para realizar soluciones y propuestas con nuevas tecnologíass con ciencias de datos y herramientas estadisticas.
+- Mi objetivo es colaborar para realizar soluciones y propuestas con nuevas tecnologías con ciencias de datos y herramientas estadisticas.
 - 📫 eduardo.gaitan.escalante@gmail.com
 - LinkedIn: www.linkedin.com/in/eduardo-gaitan-1b143b242
 
